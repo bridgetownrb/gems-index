@@ -4,6 +4,9 @@ This repo contains the source code for the canonical site located at https://gem
 
 ## Install
 
+> [!NOTE]
+> When you clone this repo, you should be directly inside of the main `bridgetown` monorepo and have gems already built and available in the various `pkg` folders.
+
 ```sh
 cd gems-index
 bundle install && npm install
