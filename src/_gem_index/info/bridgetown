@@ -1,0 +1,5 @@
+---
+2.0.0 bridgetown-builder:= 2.0.0,bridgetown-core:= 2.0.0,bridgetown-foundation:= 2.0.0,bridgetown-paginate:= 2.0.0|checksum:PnYfQLyuuT65lVIYndPCG6xBuDdY5R6K3fI0AnvnRqo=,ruby:>= 3.1.0
+2.0.1 bridgetown-builder:= 2.0.1,bridgetown-core:= 2.0.1,bridgetown-foundation:= 2.0.1,bridgetown-paginate:= 2.0.1|checksum:u6BURQPZLNCzVMULV5lU6ung5LRqFpfIKfuXaKFVgSY=,ruby:>= 3.1.0
+2.0.2 bridgetown-builder:= 2.0.2,bridgetown-core:= 2.0.2,bridgetown-foundation:= 2.0.2,bridgetown-paginate:= 2.0.2|checksum:T4HSUJS0oulgq1mHGcR3EKQEI+zlbdj6L/bDnOZjQUA=,ruby:>= 3.1.0
+2.0.3 bridgetown-builder:= 2.0.3,bridgetown-core:= 2.0.3,bridgetown-foundation:= 2.0.3,bridgetown-paginate:= 2.0.3|checksum:gS4DjQMQx+h1+1lAWJc4yc/LNL4xR8ZVn/1i7MJyM/4=,ruby:>= 3.1.0
