@@ -20,7 +20,7 @@ source "https://gems.bridgetownrb.com" do
 end
 ```
 
-The server is a static site on a CDN hosted by [Render](https://render.com).
+The server is a static site on a CDN hosted by [Render](https://render.com). The source code is [available here](https://github.com/bridgetownrb/gems-index).
 
 ## Checksums
 
