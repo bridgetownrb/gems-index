@@ -4,7 +4,7 @@ This project isn't really versioned per se, but I'll keep a record of major depl
 
 ## 2025-10-25
 
-Make the gems loading more flexible via `src/_data/load_gems.yml`, add additional plugin gems for demployment like feed, seo-tag, etc.
+Make the gems loading more flexible via `src/_data/load_gems.yml`, add additional plugin gems for deployment like feed, seo-tag, etc.
 
 ## 2025-10-21
 
