@@ -1,8 +1,12 @@
-created_at: 2025-10-21T18:11:18+00:00
+created_at: 2025-10-25T06:26:55+00:00
 ---
 bridgetown 2.0.0,2.0.1,2.0.2,2.0.3 52d0dd831e0f9adf0a6198f513dbac7a
 bridgetown-builder 2.0.0,2.0.1,2.0.2,2.0.3 dd1b652c8c41118432c7a96a82cd8e8b
 bridgetown-core 2.0.0,2.0.1,2.0.2,2.0.3 143b00cce0a18a01dae0e2de4c2338bd
+bridgetown-feed 4.0.0 02adaf39997a38a5b2618f793782f99e
 bridgetown-foundation 2.0.0,2.0.1,2.0.2,2.0.3 9baef1e09607cfb46f6927ea68af226f
+bridgetown-lit-renderer 3.0.0 9977b60fa74e7b781363d77c6bb9526f
 bridgetown-paginate 2.0.0,2.0.1,2.0.2,2.0.3 871218451065ec2ff871fc438e3cce30
 bridgetown-routes 2.0.0,2.0.1,2.0.2,2.0.3 c3ac55b6a56f8a215496e47a6a231e9c
+bridgetown-seo-tag 7.0.0 9b03ff143385778d48ce5941afea9e26
+rubocop-bridgetown 0.7.0 e3f80621c7cbdf021907a965e3f018e7

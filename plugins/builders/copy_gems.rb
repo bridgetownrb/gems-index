@@ -12,18 +12,17 @@ class Builders::CopyGems < SiteBuilder
     index_folder = site.in_source_dir("_gem_index")
     
     hook :site, :post_read do
-      gem_checksums = cache.getset "built_index" do
+      cache_key = Digest::SHA256.file(site.in_source_dir("_data/load_gems.yml")).hexdigest
+      gem_checksums = cache.getset(cache_key) do
+        load_gems_folders = site.data.load_gems.map { File.expand_path _1, "~"}
         gems_folder = site.in_source_dir("_gem_index/gems")
 
         if Bridgetown.env.development? # production site deploy uses already locally-built index
           FileUtils.mkdir_p gems_folder
-
-          bridgetown_gems = %w(bridgetown bridgetown-builder bridgetown-core bridgetown-foundation bridgetown-paginate bridgetown-routes)
-          bridgetown_gems.map { File.expand_path _1, ".." }.each do |folder|
-            Bridgetown.logger.info("Gems:", "Copying from #{folder}...")
+          load_gems_folders.each do |folder|
+            Bridgetown.logger.info("Gems:", "Copying pkg/*.gem from #{folder}...")
             Dir.chdir(folder) do
               Dir["pkg/*.gem"].each do |path|
-                next if path.include?("2.0.0.beta") # don't bother with old beta release
                 FileUtils.cp path, gems_folder
               end
             end

@@ -2,6 +2,10 @@
 bridgetown
 bridgetown-builder
 bridgetown-core
+bridgetown-feed
 bridgetown-foundation
+bridgetown-lit-renderer
 bridgetown-paginate
 bridgetown-routes
+bridgetown-seo-tag
+rubocop-bridgetown

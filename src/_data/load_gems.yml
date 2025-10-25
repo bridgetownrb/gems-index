@@ -1,0 +1,15 @@
+# these are paths relative to home directory (~)
+
+# monorepo:
+- BRIDGETOWN/bridgetown/bridgetown
+- BRIDGETOWN/bridgetown/bridgetown-builder
+- BRIDGETOWN/bridgetown/bridgetown-core
+- BRIDGETOWN/bridgetown/bridgetown-foundation
+- BRIDGETOWN/bridgetown/bridgetown-paginate
+- BRIDGETOWN/bridgetown/bridgetown-routes
+
+# plugins:
+- BRIDGETOWN/bridgetown-feed
+- BRIDGETOWN/bridgetown-lit-renderer
+- BRIDGETOWN/bridgetown-seo-tag
+- BRIDGETOWN/rubocop-bridgetown
