@@ -29,8 +29,6 @@ bin/bridgetown console
 
 ## Contributing
 
-If repo is on GitHub:
-
 1. Fork it
 2. Clone the fork using `git clone` to your local development machine.
 3. Create your feature branch (`git checkout -b my-new-feature`)
