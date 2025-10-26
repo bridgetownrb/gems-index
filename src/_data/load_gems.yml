@@ -9,6 +9,7 @@
 - BRIDGETOWN/bridgetown/bridgetown-routes
 
 # plugins:
+- BRIDGETOWN/bridgetown_sequel
 - BRIDGETOWN/bridgetown-feed
 - BRIDGETOWN/bridgetown-lit-renderer
 - BRIDGETOWN/bridgetown-seo-tag
