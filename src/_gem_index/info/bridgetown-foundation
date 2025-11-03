@@ -3,3 +3,4 @@
 2.0.1 hash_with_dot_access:~> 2.0,inclusive:~> 1.0,zeitwerk:~> 2.5|checksum:zsiFhcJSrxpoSF8avtU/8dovPprtqF6l9BKhKXuj+Wo=,ruby:>= 3.1
 2.0.2 hash_with_dot_access:~> 2.0,inclusive:~> 1.0,zeitwerk:~> 2.5|checksum:jIuTqm8GvVw1DxO6cnIKAFwFe+bfRpmGWM3hZbciOA0=,ruby:>= 3.1
 2.0.3 hash_with_dot_access:~> 2.0,inclusive:~> 1.0,zeitwerk:~> 2.5|checksum:GQJc2AjA4zFa9UuToYw+BDYn966LVGuJlHk7v5fmz+U=,ruby:>= 3.1
+2.0.4 hash_with_dot_access:~> 2.0,inclusive:~> 1.0,zeitwerk:~> 2.5|checksum:gFNoyKXFQo+fcwCnBYaIVFJh/Lww6OqRnetvo36Z300=,ruby:>= 3.1
