@@ -7,3 +7,4 @@
 2.0.5 hash_with_dot_access:~> 2.0,inclusive:~> 1.0,zeitwerk:~> 2.5|checksum:IkqQrMkGYd5X0BFSZ4WNoSzho7jdRXREzkbzEx6ggcY=,ruby:>= 3.1
 2.1.0.beta1 dry-inflector:>= 1.0,hash_with_dot_access:~> 2.0,inclusive:~> 1.0,zeitwerk:~> 2.5|checksum:hLw5DzbkBdbBQ6ysmbr+VvI3hRQh5G1cPKQyH03pwxo=,ruby:>= 3.2
 2.1.0.beta2 dry-inflector:>= 1.0,hash_with_dot_access:~> 2.0,inclusive:~> 1.0,zeitwerk:~> 2.5|checksum:8Y7iWAiUT9l71Fer6RhHYTVvO6+VUETsWFRzQ7Q6N34=,ruby:>= 3.2
+2.1.0.beta3 dry-inflector:>= 1.0,hash_with_dot_access:~> 2.0,inclusive:~> 1.0,zeitwerk:~> 2.5|checksum:5k68Nx2NKySbOd7kcsWyppz59NTLSul5CM5O4Sath0Q=,ruby:>= 3.2

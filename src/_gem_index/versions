@@ -1,13 +1,13 @@
-created_at: 2025-12-18T05:59:34+00:00
+created_at: 2025-12-18T20:29:49+00:00
 ---
-bridgetown 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0.beta1,2.1.0.beta2 e58d31dfe320ffbd9e91c4a0374896bc
-bridgetown-builder 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0.beta1,2.1.0.beta2 d3ffc6d4f8e6da96634adc35186a7ab8
-bridgetown-core 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0.beta1,2.1.0.beta2 d2157b045bb04f577390b317e6df8915
+bridgetown 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3 7acbc52b68498f99c32f0a5b771891e9
+bridgetown-builder 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3 36d6f85731d76ab9fc536120546592cb
+bridgetown-core 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3 b831c8ef4f2776e4723b3e0e7d8c8fdc
 bridgetown-feed 4.0.0 02adaf39997a38a5b2618f793782f99e
-bridgetown-foundation 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0.beta1,2.1.0.beta2 5a57cf8d2749502a7dc94a5e963839c0
+bridgetown-foundation 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3 27c391ec46629ead75e3e88538f3a46a
 bridgetown-lit-renderer 3.0.0 9977b60fa74e7b781363d77c6bb9526f
-bridgetown-paginate 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0.beta1,2.1.0.beta2 85c91f3c2f9dd01b8b038bdded28db58
-bridgetown-routes 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0.beta1,2.1.0.beta2 90593a46d0e955f383479b856b75bf3c
+bridgetown-paginate 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3 336c3b2e57f7c9b318c5f3adbcd7a8ee
+bridgetown-routes 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3 0dce85013f5440ac1a999bf2fd01fee7
 bridgetown-seo-tag 7.0.0,7.0.1 3fc164cf8ebe83d94f44ad82857899f9
 bridgetown_sequel 1.1.1 8c7882d0918a960d1949535e956dab73
 rubocop-bridgetown 0.7.0 e3f80621c7cbdf021907a965e3f018e7
