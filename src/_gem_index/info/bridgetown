@@ -9,3 +9,4 @@
 2.1.0.beta1 bridgetown-builder:= 2.1.0.beta1,bridgetown-core:= 2.1.0.beta1,bridgetown-foundation:= 2.1.0.beta1,bridgetown-paginate:= 2.1.0.beta1|checksum:IUx+b0adrlPAbLiH15++0rlujciJvi+t+KlRN1sR9Js=,ruby:>= 3.2.0
 2.1.0.beta2 bridgetown-builder:= 2.1.0.beta2,bridgetown-core:= 2.1.0.beta2,bridgetown-foundation:= 2.1.0.beta2,bridgetown-paginate:= 2.1.0.beta2|checksum:0vQ6BU+UxCax9IJwAYb71+BDV9hWqkq5jJlgglkrEUM=,ruby:>= 3.2.0
 2.1.0.beta3 bridgetown-builder:= 2.1.0.beta3,bridgetown-core:= 2.1.0.beta3,bridgetown-foundation:= 2.1.0.beta3,bridgetown-paginate:= 2.1.0.beta3|checksum:Q3PVzfypnwulk5BqrNqH5hCz07xUF3Ck5a/S5HVAZiE=,ruby:>= 3.2.0
+2.1.1 bridgetown-builder:= 2.1.1,bridgetown-core:= 2.1.1,bridgetown-foundation:= 2.1.1,bridgetown-paginate:= 2.1.1|checksum:kmaMlCkXzC87wS3ipcJVfHBZy4hKRutCFb6xLBcwPp4=,ruby:>= 3.2.0
