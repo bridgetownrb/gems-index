@@ -10,3 +10,4 @@
 2.1.0.beta2 bridgetown-core:= 2.1.0.beta2,roda-route_list:>= 2.1|checksum:Puk3xCJsMiMn5wDRCj6n/FutBtPkF5pl+Qi3K3NgGis=
 2.1.0.beta3 bridgetown-core:= 2.1.0.beta3,roda-route_list:>= 2.1|checksum:05VcUC8VLeuctFNVj6nWWSgiSLNJohCriSi6W/LWvUM=
 2.1.1 bridgetown-core:= 2.1.1,roda-route_list:>= 2.1|checksum:KxWZB4sfJaFFiG3ux3soe30NrANkvKkeyMaFxGH3ifE=
+2.1.2 bridgetown-core:= 2.1.2,roda-route_list:>= 2.1|checksum:ipG1FEqbcmCg2vMDXMX+aO1JUlRi8qhn+lTy7psM4Vw=

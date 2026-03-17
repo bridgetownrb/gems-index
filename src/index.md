@@ -29,10 +29,20 @@ You can compare these with the ones published on Rubygems.org:
 
 <section style="overflow: auto">
 <table style="width: 100%; font-size: 85%; font-family: ui-monospace, monospace;">
+<% previous_gem_name = nil %>
 <% site.data.gem_checksums.each do |path, checksum|
   path = File.basename(path)
-  rubygems_url = "https://rubygems.org/gems/#{path.split("-")[..-2].join("-")}/versions/#{File.basename(path.split("-").last, ".*")}#:~:text=SHA%20256%20CHECKSUM%3A"
+  gem_name = path.split("-")[..-2].join("-")
+  rubygems_url = "https://rubygems.org/gems/#{gem_name}/versions/#{File.basename(path.split("-").last, ".*")}#:~:text=SHA%20256%20CHECKSUM%3A"
 %>
+<% if gem_name != previous_gem_name
+    previous_gem_name = gem_name
+%>
+<tr>
+  <td style="padding-block-start: 1rem"><strong><%= gem_name %></strong></td>
+  <td style="padding-block-start: 1rem"></td>
+</tr>
+<% end %>
 <tr>
   <td><a href="<%= rubygems_url %>" target="_blank"><%= path %></a></td>
   <td style="text-align: right"><%= checksum %></td>
