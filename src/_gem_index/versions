@@ -1,13 +1,13 @@
-created_at: 2026-03-17T18:43:17+00:00
+created_at: 2026-05-20T17:20:18+00:00
 ---
-bridgetown 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3,2.1.1,2.1.2 822733c17abee2da85dc2933351cc39a
-bridgetown-builder 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3,2.1.1,2.1.2 24e1b2f54ac193226edd179ff0657630
-bridgetown-core 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3,2.1.1,2.1.2 145ba0f366d84fd26e316a7b5d853cfc
+bridgetown 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3,2.1.1,2.1.2,2.2.0 b019f49d1ee5926a59f26892034049b5
+bridgetown-builder 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3,2.1.1,2.1.2,2.2.0 172f8c120a1e1ba5ae8251627b4c8fc9
+bridgetown-core 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3,2.1.1,2.1.2,2.2.0 a8d888b1e4d50c2cacd632f7e99bbba0
 bridgetown-feed 4.0.0 02adaf39997a38a5b2618f793782f99e
-bridgetown-foundation 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3,2.1.1,2.1.2 e8a4f9f0c4e2dcbd766aafd2592ec2da
+bridgetown-foundation 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3,2.1.1,2.1.2,2.2.0 c61c6a6c161de82f9a1c20f24c234b98
 bridgetown-lit-renderer 3.0.0 9977b60fa74e7b781363d77c6bb9526f
-bridgetown-paginate 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3,2.1.1,2.1.2 7e6051be31ae94c0ce4490972c7e1a2c
-bridgetown-routes 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3,2.1.1,2.1.2 e0639226ccbea0ffd3393c0493e21c2d
+bridgetown-paginate 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3,2.1.1,2.1.2,2.2.0 34638e49d0ee983f3cdb561177e31b28
+bridgetown-routes 2.0.0,2.0.1,2.0.2,2.0.3,2.0.4,2.0.5,2.1.0,2.1.0.beta1,2.1.0.beta2,2.1.0.beta3,2.1.1,2.1.2,2.2.0 fe01d994fbd905fff7a40aac9cd8ed10
 bridgetown-seo-tag 7.0.0,7.0.1 3fc164cf8ebe83d94f44ad82857899f9
 bridgetown_sequel 1.1.1 8c7882d0918a960d1949535e956dab73
 rubocop-bridgetown 0.7.0 e3f80621c7cbdf021907a965e3f018e7
