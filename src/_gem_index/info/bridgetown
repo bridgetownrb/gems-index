@@ -13,3 +13,4 @@
 2.1.2 bridgetown-builder:= 2.1.2,bridgetown-core:= 2.1.2,bridgetown-foundation:= 2.1.2,bridgetown-paginate:= 2.1.2|checksum:7VnRD3zN/8S0NZhk+/NlKNJrr2XHd0Pd/UuQVVqlDAY=,ruby:>= 3.2.0
 2.2.0 bridgetown-builder:= 2.2.0,bridgetown-core:= 2.2.0,bridgetown-foundation:= 2.2.0,bridgetown-paginate:= 2.2.0|checksum:h/f38O6MLShrb9kh5dwTIDb8Sc8muarU1WAHuYHvtVs=,ruby:>= 3.3.0
 2.2.1 bridgetown-builder:= 2.2.1,bridgetown-core:= 2.2.1,bridgetown-foundation:= 2.2.1,bridgetown-paginate:= 2.2.1|checksum:tHlC/t71VSh5nd6zUL1m42lQXK501XeVNsdji+cfae0=,ruby:>= 3.3.0
+2.2.2 bridgetown-builder:= 2.2.2,bridgetown-core:= 2.2.2,bridgetown-foundation:= 2.2.2,bridgetown-paginate:= 2.2.2|checksum:MkB4L2k8NAh+44fPtdEQNqTd1Mm/v8CQ5hItUfUOih8=,ruby:>= 3.3.0

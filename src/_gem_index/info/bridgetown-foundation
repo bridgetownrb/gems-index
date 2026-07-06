@@ -13,3 +13,4 @@
 2.1.2 dry-inflector:>= 1.0,hash_with_dot_access:~> 2.0,inclusive:~> 1.0,zeitwerk:~> 2.5|checksum:v6e0WYb7Mlqws6wLyxJoelzmieVqHEi76/MmoeiS9tw=,ruby:>= 3.2
 2.2.0 dry-inflector:>= 1.0,hash_with_dot_access:~> 2.0,inclusive:~> 1.0,zeitwerk:~> 2.5|checksum:v7Vc4ME99j1zZV7Xk20QGz43VvMN5ErhnQFEK3e/P1Y=,ruby:>= 3.3
 2.2.1 dry-inflector:>= 1.0,hash_with_dot_access:~> 2.0,inclusive:~> 1.0,zeitwerk:~> 2.5|checksum:9mdIM/uNrTFqxagCzk9t6LbxxFTLja+Y6E51l/FNRN4=,ruby:>= 3.3
+2.2.2 dry-inflector:>= 1.0,hash_with_dot_access:~> 2.0,inclusive:~> 1.0,zeitwerk:~> 2.5|checksum:cnXof002oJ5Ru3yffTuS6sRTm2BvtyKXXty0hTB032U=,ruby:>= 3.3
